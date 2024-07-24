@@ -14,7 +14,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: center;
-    background: url(./assets/night-sky-bg.png);
+    background: url(./assets/bg.jpg);
     background-size: cover;
     background-position: center;
     overflow: hidden;
